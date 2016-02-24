@@ -19,7 +19,7 @@
     'name': 'markup.changed.tbdfile'
   }
   {
-    'match': '^ *\\*.*'
+    'match': '^ *\\*[^\\[]*'
     'name': 'markup.inserted.tbdfile'
   }
 
