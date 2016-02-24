@@ -1,0 +1,18 @@
+{
+  "name": "task-break-down",
+  "main": "./lib/task-break-down",
+  "version": "0.1.0",
+  "description": "Package for task-break-down file syntax highlighting.",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "task-break-down:toggle"
+  },
+  "repository": "https://github.com/atom/task-break-down",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
