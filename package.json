@@ -1,10 +1,9 @@
 {
   "name": "task-break-down",
   "main": "./lib/task-break-down",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Package for task-break-down file syntax highlighting.",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "task-break-down:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
