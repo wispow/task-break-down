@@ -7,7 +7,7 @@
   "activationCommands": {
     "atom-workspace": "task-break-down:toggle"
   },
-  "repository": "https://github.com/atom/task-break-down",
+  "repository": "https://github.com/wispow/task-break-down",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
