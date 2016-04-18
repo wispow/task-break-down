@@ -22,6 +22,10 @@
     'match': '^ *\\*[^\\[]*'
     'name': 'markup.inserted.tbdfile'
   }
+  {
+    'match': '^ *\\-[^\\[]*'
+    'name': 'markup.deleted.tbdfile'
+  }
 
 
 ]
